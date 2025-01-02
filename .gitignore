@@ -1,0 +1,20 @@
+# Ignore object files
+*.o
+
+# Ignore the executable
+clox
+
+# Ignore dependency files
+*.d
+
+# Ignore temporary files
+*~
+
+# Ignore backup files
+*.bak
+
+# Ignore core dumps
+core
+
+# Ignore build directories
+/build/

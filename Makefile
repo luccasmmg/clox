@@ -1,6 +1,6 @@
 CC = gcc
 CFLAGS = -Wall -Wextra -std=c99
-SRC = chunk.c main.c memory.c debug.c value.c
+SRC = chunk.c main.c memory.c debug.c value.c vm.c compiler.c scanner.c
 OBJ = $(SRC:.c=.o)
 EXEC = clox
 

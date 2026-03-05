@@ -2,7 +2,7 @@
 *.o
 
 # Ignore the executable
-clox
+#clox
 
 # Ignore dependency files
 *.d
